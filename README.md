@@ -1,2 +1,2 @@
-# This is a repository from the Human Contexts and Ethics of Data Science Team's work on Linear and Logistic Modeling
+# Human Contexts and Ethics of Data Science: Predicting Chicago Housing Prices to teach Linear and Logistic Modeling
 
